@@ -6,7 +6,7 @@
 
 tl;dr
 
-Para Instalar
+Para Instalar o modo markdown no emacs, inserir o código abaixo no init.el
 
 ``` emacs-lisp
 (use-package markdown-mode
